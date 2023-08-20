@@ -1,5 +1,5 @@
 # CFXInspector
-Get the IP Address of a FiveM or RedM server.
+Get the IP Address of a FiveM or RedM server from the connect code.
 
 ![logo](https://i.imgur.com/1l1m7Iy.png)
 

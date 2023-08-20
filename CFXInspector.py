@@ -1,6 +1,5 @@
 import requests
 from colorama import init, Fore
-import fivempy
 import pyperclip
 import ctypes
 

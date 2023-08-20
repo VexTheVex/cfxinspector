@@ -1,4 +1,6 @@
 # CFXInspector
+Get the IP Address of a FiveM or RedM server.
+
 ![logo](https://i.imgur.com/1l1m7Iy.png)
 
 If you have python installed you can just download the file from the source and run the script with python. 
